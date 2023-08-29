@@ -4,3 +4,5 @@ shi theres some conflict
 Hello back whats up
 
 narrator: dw I resolved the conflict
+
+class: you forgot to put in an 8th line
